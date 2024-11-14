@@ -1,1 +1,1 @@
-pip install Flask pandas openpyxl Werkzeug nepali-datetime
+ Flask pandas openpyxl Werkzeug nepali-datetime
